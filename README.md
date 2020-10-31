@@ -5,3 +5,7 @@ The bitwarden Website project is written using Jekyll, which is hosted/deployed 
 # Contribute
 
 Code contributions are welcome! Please commit any pull requests against the `master` branch.
+
+### Languages Used
+HTML, CSS, JavaScript
+
